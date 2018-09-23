@@ -10,6 +10,12 @@ package opgaver;
  * @author rodsur
  */
 public class D7 {
+    
+    /*
+    Ekstraopgave D.7:
+    Omskriv én løsning til opgave C.7 fra sidste uge til at benytte metoder.
+    I kan bruge jeres egen løsning eller den vedhæftede.
+    */
 
     /**
      * @param args the command line arguments
